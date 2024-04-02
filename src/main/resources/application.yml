@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: springboot-mongodb-docker
+
+  data:
+    mongodb:
+      database: Springboot-MongoDB
+      host: localhost
+#      host: mymongodb
+      port: 27017
+
